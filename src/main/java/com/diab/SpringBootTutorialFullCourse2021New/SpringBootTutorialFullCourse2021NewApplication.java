@@ -10,4 +10,5 @@ public class SpringBootTutorialFullCourse2021NewApplication {
 		SpringApplication.run(SpringBootTutorialFullCourse2021NewApplication.class, args);
 	}
 
+
 }
